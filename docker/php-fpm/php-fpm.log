@@ -1,0 +1,28 @@
+[13-May-2024 07:18:46] NOTICE: fpm is running, pid 17
+[13-May-2024 07:18:46] NOTICE: ready to handle connections
+[13-May-2024 07:18:46] NOTICE: systemd monitor interval set to 10000ms
+[13-May-2024 07:20:07] WARNING: [pool www] child 27 said into stderr: "NOTICE: PHP message: PHP Warning:  require(/var/www/html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/public/index.php on line 34"
+[13-May-2024 07:20:07] WARNING: [pool www] child 27 said into stderr: "NOTICE: PHP message: PHP Fatal error:  require(): Failed opening required '/var/www/html/public/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/public/index.php on line 34"
+[13-May-2024 07:20:12] WARNING: [pool www] child 28 said into stderr: "NOTICE: PHP message: PHP Warning:  require(/var/www/html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/public/index.php on line 34"
+[13-May-2024 07:20:12] WARNING: [pool www] child 28 said into stderr: "NOTICE: PHP message: PHP Fatal error:  require(): Failed opening required '/var/www/html/public/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/public/index.php on line 34"
+[13-May-2024 08:39:54] NOTICE: fpm is running, pid 17
+[13-May-2024 08:39:54] NOTICE: ready to handle connections
+[13-May-2024 08:39:54] NOTICE: systemd monitor interval set to 10000ms
+[13-May-2024 08:40:05] WARNING: [pool www] child 27 said into stderr: "NOTICE: PHP message: PHP Warning:  require(/var/www/html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/public/index.php on line 34"
+[13-May-2024 08:40:05] WARNING: [pool www] child 27 said into stderr: "NOTICE: PHP message: PHP Fatal error:  require(): Failed opening required '/var/www/html/public/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/public/index.php on line 34"
+[13-May-2024 08:40:07] WARNING: [pool www] child 28 said into stderr: "NOTICE: PHP message: PHP Warning:  require(/var/www/html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/public/index.php on line 34"
+[13-May-2024 08:40:07] WARNING: [pool www] child 28 said into stderr: "NOTICE: PHP message: PHP Fatal error:  require(): Failed opening required '/var/www/html/public/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/public/index.php on line 34"
+[13-May-2024 08:40:21] WARNING: [pool www] child 29 said into stderr: "NOTICE: PHP message: PHP Warning:  require(/var/www/html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/public/index.php on line 34"
+[13-May-2024 08:40:21] WARNING: [pool www] child 29 said into stderr: "NOTICE: PHP message: PHP Fatal error:  require(): Failed opening required '/var/www/html/public/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/public/index.php on line 34"
+[13-May-2024 08:42:34] NOTICE: fpm is running, pid 17
+[13-May-2024 08:42:34] NOTICE: ready to handle connections
+[13-May-2024 08:42:34] NOTICE: systemd monitor interval set to 10000ms
+[13-May-2024 08:43:03] WARNING: [pool www] child 27 said into stderr: "NOTICE: PHP message: PHP Warning:  require(/var/www/html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/public/index.php on line 34"
+[13-May-2024 08:43:03] WARNING: [pool www] child 27 said into stderr: "NOTICE: PHP message: PHP Fatal error:  require(): Failed opening required '/var/www/html/public/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/public/index.php on line 34"
+[13-May-2024 08:43:05] WARNING: [pool www] child 29 said into stderr: "NOTICE: PHP message: PHP Warning:  require(/var/www/html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/public/index.php on line 34"
+[13-May-2024 08:43:05] WARNING: [pool www] child 29 said into stderr: "NOTICE: PHP message: PHP Fatal error:  require(): Failed opening required '/var/www/html/public/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/public/index.php on line 34"
+[13-May-2024 08:49:57] NOTICE: fpm is running, pid 17
+[13-May-2024 08:49:57] NOTICE: ready to handle connections
+[13-May-2024 08:49:57] NOTICE: systemd monitor interval set to 10000ms
+[13-May-2024 08:50:19] WARNING: [pool www] child 27 said into stderr: "NOTICE: PHP message: PHP Warning:  require(/var/www/html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/public/index.php on line 34"
+[13-May-2024 08:50:19] WARNING: [pool www] child 27 said into stderr: "NOTICE: PHP message: PHP Fatal error:  require(): Failed opening required '/var/www/html/public/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/public/index.php on line 34"

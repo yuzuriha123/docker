@@ -1,0 +1,15 @@
+2024/05/13 08:49:57 [notice] 18#18: using the "epoll" event method
+2024/05/13 08:49:57 [notice] 18#18: nginx/1.21.6
+2024/05/13 08:49:57 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2024/05/13 08:49:57 [notice] 18#18: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/05/13 08:49:57 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/05/13 08:49:57 [notice] 18#18: start worker processes
+2024/05/13 08:49:57 [notice] 18#18: start worker process 19
+2024/05/13 08:49:57 [notice] 18#18: start worker process 20
+2024/05/13 08:49:57 [notice] 18#18: start worker process 21
+2024/05/13 08:49:57 [notice] 18#18: start worker process 22
+2024/05/13 08:49:57 [notice] 18#18: start worker process 23
+2024/05/13 08:49:57 [notice] 18#18: start worker process 24
+2024/05/13 08:49:57 [notice] 18#18: start worker process 25
+2024/05/13 08:49:57 [notice] 18#18: start worker process 26
+2024/05/13 08:50:19 [error] 19#19: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(/var/www/html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/public/index.php on line 34PHP message: PHP Fatal error:  require(): Failed opening required '/var/www/html/public/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/public/index.php on line 34" while reading response header from upstream, client: 172.24.0.1, server: miduner.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.4-fpm.sock:", host: "localhost:12001"
